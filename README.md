@@ -1,10 +1,10 @@
-## Basic Automation Project
+## Actions Project
 
-#### Selenium Web Driver Structured Project
+#### Actions in project
 
  * Java 
  * Maven
  * TestNG
  * Selenium
 
- [Jean-francois Nepton](https://github.com/sqaSeleniumBC)
+ [EI](https://github.com/sqaSeleniumBC)
